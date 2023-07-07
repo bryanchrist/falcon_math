@@ -1,0 +1,35 @@
+  Running command git clone --quiet https://github.com/huggingface/transformers.git /tmp/pip-install-fla6v8fz/transformers_e776876f2eec417986ee36892ad389ba
+  Running command git clone --quiet https://github.com/huggingface/peft.git /tmp/pip-install-fla6v8fz/peft_eef3540e76374289a3e02bf2b0295f54
+  Running command git clone --quiet https://github.com/huggingface/accelerate.git /tmp/pip-install-fla6v8fz/accelerate_73e9c29d492040d8979af11c0bbe0795
+/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/bitsandbytes/cuda_setup/main.py:149: UserWarning: Found duplicate ['libcudart.so', 'libcudart.so.11.0', 'libcudart.so.12.0'] files: {PosixPath('/home/brc4cb/.conda/envs/falcon_40B/lib/libcudart.so.11.0'), PosixPath('/home/brc4cb/.conda/envs/falcon_40B/lib/libcudart.so')}.. We'll flip a coin and try one of these, in order to fail forward.
+Either way, this might cause trouble in the future:
+If you get `CUDA error: invalid device function` errors, the above might be the cause and the solution is to make sure only one ['libcudart.so', 'libcudart.so.11.0', 'libcudart.so.12.0'] in the paths that we search based on your env.
+  warn(msg)
+Loading checkpoint shards:   0%|          | 0/9 [00:00<?, ?it/s]Loading checkpoint shards:  11%|█         | 1/9 [00:25<03:27, 25.97s/it]Loading checkpoint shards:  22%|██▏       | 2/9 [00:38<02:05, 17.86s/it]Loading checkpoint shards:  33%|███▎      | 3/9 [00:52<01:37, 16.26s/it]Loading checkpoint shards:  44%|████▍     | 4/9 [01:02<01:09, 13.88s/it]Loading checkpoint shards:  56%|█████▌    | 5/9 [01:21<01:02, 15.68s/it]Loading checkpoint shards:  67%|██████▋   | 6/9 [01:39<00:48, 16.33s/it]Loading checkpoint shards:  78%|███████▊  | 7/9 [01:51<00:30, 15.13s/it]Loading checkpoint shards:  89%|████████▉ | 8/9 [02:08<00:15, 15.52s/it]Loading checkpoint shards: 100%|██████████| 9/9 [02:23<00:00, 15.32s/it]Loading checkpoint shards: 100%|██████████| 9/9 [02:23<00:00, 15.90s/it]
+/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/transformers/generation/utils.py:1261: UserWarning: You have modified the pretrained model configuration to control generation. This is a deprecated strategy to control generation and will be removed soon, in a future version. Please use a generation configuration file (see https://huggingface.co/docs/transformers/main_classes/text_generation )
+  warnings.warn(
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+slurmstepd: error: *** JOB 51390581 ON udc-an37-1 CANCELLED AT 2023-07-03T13:30:38 ***

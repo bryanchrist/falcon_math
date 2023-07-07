@@ -1,0 +1,50 @@
+  Running command git clone --quiet https://github.com/huggingface/transformers.git /tmp/pip-install-tsirhmrw/transformers_06569faef8bb4f71bb2f99a965d3b6c6
+  Running command git clone --quiet https://github.com/huggingface/peft.git /tmp/pip-install-tsirhmrw/peft_6101c26248854304b69c839cbaac043c
+  Running command git clone --quiet https://github.com/huggingface/accelerate.git /tmp/pip-install-tsirhmrw/accelerate_778023ccbd4148a9b94edf4789891a2e
+/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/bitsandbytes/cuda_setup/main.py:149: UserWarning: Found duplicate ['libcudart.so', 'libcudart.so.11.0', 'libcudart.so.12.0'] files: {PosixPath('/home/brc4cb/.conda/envs/falcon_40B/lib/libcudart.so.11.0'), PosixPath('/home/brc4cb/.conda/envs/falcon_40B/lib/libcudart.so')}.. We'll flip a coin and try one of these, in order to fail forward.
+Either way, this might cause trouble in the future:
+If you get `CUDA error: invalid device function` errors, the above might be the cause and the solution is to make sure only one ['libcudart.so', 'libcudart.so.11.0', 'libcudart.so.12.0'] in the paths that we search based on your env.
+  warn(msg)
+Loading checkpoint shards:   0%|          | 0/9 [00:00<?, ?it/s]Loading checkpoint shards:  11%|█         | 1/9 [00:07<00:59,  7.48s/it]Loading checkpoint shards:  22%|██▏       | 2/9 [00:15<00:52,  7.55s/it]Loading checkpoint shards:  33%|███▎      | 3/9 [00:21<00:42,  7.16s/it]Loading checkpoint shards:  44%|████▍     | 4/9 [00:31<00:39,  7.99s/it]Loading checkpoint shards:  56%|█████▌    | 5/9 [00:43<00:38,  9.62s/it]Loading checkpoint shards:  67%|██████▋   | 6/9 [00:50<00:26,  8.85s/it]Loading checkpoint shards:  78%|███████▊  | 7/9 [00:56<00:15,  7.93s/it]Loading checkpoint shards:  89%|████████▉ | 8/9 [01:02<00:07,  7.29s/it]Loading checkpoint shards: 100%|██████████| 9/9 [01:11<00:00,  7.82s/it]Loading checkpoint shards: 100%|██████████| 9/9 [01:11<00:00,  7.98s/it]
+/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/transformers/generation/utils.py:1261: UserWarning: You have modified the pretrained model configuration to control generation. This is a deprecated strategy to control generation and will be removed soon, in a future version. Please use a generation configuration file (see https://huggingface.co/docs/transformers/main_classes/text_generation )
+  warnings.warn(
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.

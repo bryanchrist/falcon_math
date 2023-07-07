@@ -1,0 +1,25 @@
+  Running command git clone --quiet https://github.com/huggingface/transformers.git /tmp/pip-install-kti6r3k6/transformers_b397a65a4e20487d9e825223e02380c7
+  Running command git clone --quiet https://github.com/huggingface/peft.git /tmp/pip-install-kti6r3k6/peft_86dfecd9a9014dac83be60f2255a60ee
+  Running command git clone --quiet https://github.com/huggingface/accelerate.git /tmp/pip-install-kti6r3k6/accelerate_41380fb3402848dfb8146cc960239696
+/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/bitsandbytes/cuda_setup/main.py:149: UserWarning: Found duplicate ['libcudart.so', 'libcudart.so.11.0', 'libcudart.so.12.0'] files: {PosixPath('/home/brc4cb/.conda/envs/falcon_40B/lib/libcudart.so.11.0'), PosixPath('/home/brc4cb/.conda/envs/falcon_40B/lib/libcudart.so')}.. We'll flip a coin and try one of these, in order to fail forward.
+Either way, this might cause trouble in the future:
+If you get `CUDA error: invalid device function` errors, the above might be the cause and the solution is to make sure only one ['libcudart.so', 'libcudart.so.11.0', 'libcudart.so.12.0'] in the paths that we search based on your env.
+  warn(msg)
+Loading checkpoint shards:   0%|          | 0/9 [00:00<?, ?it/s]Loading checkpoint shards:  11%|█         | 1/9 [00:07<00:58,  7.36s/it]Loading checkpoint shards:  22%|██▏       | 2/9 [00:13<00:48,  6.92s/it]Loading checkpoint shards:  33%|███▎      | 3/9 [00:21<00:42,  7.01s/it]Loading checkpoint shards:  44%|████▍     | 4/9 [00:27<00:34,  6.84s/it]Loading checkpoint shards:  56%|█████▌    | 5/9 [00:34<00:26,  6.72s/it]Loading checkpoint shards:  67%|██████▋   | 6/9 [00:42<00:21,  7.28s/it]Loading checkpoint shards:  78%|███████▊  | 7/9 [00:49<00:14,  7.18s/it]Loading checkpoint shards:  89%|████████▉ | 8/9 [00:57<00:07,  7.29s/it]Loading checkpoint shards: 100%|██████████| 9/9 [01:03<00:00,  6.89s/it]Loading checkpoint shards: 100%|██████████| 9/9 [01:03<00:00,  7.01s/it]
+/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/transformers/generation/utils.py:1261: UserWarning: You have modified the pretrained model configuration to control generation. This is a deprecated strategy to control generation and will be removed soon, in a future version. Please use a generation configuration file (see https://huggingface.co/docs/transformers/main_classes/text_generation )
+  warnings.warn(
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+slurmstepd: error: *** JOB 51461009 ON udc-an34-19 CANCELLED AT 2023-07-06T15:27:44 ***

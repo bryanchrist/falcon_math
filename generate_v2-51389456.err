@@ -1,0 +1,37 @@
+  Running command git clone --quiet https://github.com/huggingface/transformers.git /tmp/pip-install-vqj8dgui/transformers_5b0302642a2d4c3dbf82652af6c4e1c0
+  Running command git clone --quiet https://github.com/huggingface/peft.git /tmp/pip-install-vqj8dgui/peft_66ba32ec7a684bca80f3d53ce8b3cb84
+  Running command git clone --quiet https://github.com/huggingface/accelerate.git /tmp/pip-install-vqj8dgui/accelerate_3abe64be55b54ecdafb5a2cdfea1b33e
+/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/bitsandbytes/cuda_setup/main.py:149: UserWarning: Found duplicate ['libcudart.so', 'libcudart.so.11.0', 'libcudart.so.12.0'] files: {PosixPath('/home/brc4cb/.conda/envs/falcon_40B/lib/libcudart.so'), PosixPath('/home/brc4cb/.conda/envs/falcon_40B/lib/libcudart.so.11.0')}.. We'll flip a coin and try one of these, in order to fail forward.
+Either way, this might cause trouble in the future:
+If you get `CUDA error: invalid device function` errors, the above might be the cause and the solution is to make sure only one ['libcudart.so', 'libcudart.so.11.0', 'libcudart.so.12.0'] in the paths that we search based on your env.
+  warn(msg)
+Loading checkpoint shards:   0%|          | 0/9 [00:00<?, ?it/s]Loading checkpoint shards:  11%|█         | 1/9 [00:13<01:50, 13.80s/it]Loading checkpoint shards:  22%|██▏       | 2/9 [00:30<01:47, 15.38s/it]Loading checkpoint shards:  33%|███▎      | 3/9 [00:37<01:09, 11.60s/it]Loading checkpoint shards:  44%|████▍     | 4/9 [00:48<00:56, 11.39s/it]Loading checkpoint shards:  56%|█████▌    | 5/9 [01:17<01:11, 17.78s/it]Loading checkpoint shards:  67%|██████▋   | 6/9 [01:32<00:50, 16.72s/it]Loading checkpoint shards:  78%|███████▊  | 7/9 [01:49<00:33, 16.74s/it]Loading checkpoint shards:  89%|████████▉ | 8/9 [02:07<00:17, 17.17s/it]Loading checkpoint shards: 100%|██████████| 9/9 [02:14<00:00, 14.27s/it]Loading checkpoint shards: 100%|██████████| 9/9 [02:14<00:00, 15.00s/it]
+/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/transformers/generation/utils.py:1261: UserWarning: You have modified the pretrained model configuration to control generation. This is a deprecated strategy to control generation and will be removed soon, in a future version. Please use a generation configuration file (see https://huggingface.co/docs/transformers/main_classes/text_generation )
+  warnings.warn(
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:11 for open-end generation.
+slurmstepd: error: *** JOB 51389456 ON udc-an37-1 CANCELLED AT 2023-07-03T12:59:04 ***

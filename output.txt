@@ -1,0 +1,2386 @@
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 5 goals. Lionel Messi scored 3 goals. How many more goals did Cristiano Ronaldo score than Lionel Messi? Equation: 5-3=2 
+2. Neymar scored 7 goals. Luis Suarez scored 11 goals. How many more goals did Luis Suarez score than Neymar? Equation: 11-7=4 
+3. Antoine Griezmann scored 6 goals. Kylian Mbappe scored 8 goals. How many more goals did Kylian Mbappe score than Antoine Griezmann? Equation: 8-6=2 
+4. Harry Kane scored 3 goals. Mohamed Salah scored 5 goals. How many more goals did Mohamed Salah score than Harry Kane? Equation: 5-3=2 
+5. Gonzalo Higuain scored 7 goals. Sergio Aguero scored 9 goals. How many more goals did Sergio Aguero score than Gonzalo Higuain? Equation: 9-7=2
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 13 pencils and Sharleen has 11 pencils. How many pencils do they have in all? Equation: 13+11=24
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 18 lemons. How many fruits does she have altogether? Equation: 13+18=31
+2. Jose has 8 bananas and 16 papayas. How many fruits does he have altogether? Equation: 8+16=24
+3. Cesar has 19 grapes and 25 blueberries. How many fruits does he have altogether? Equation: 19+25=44
+4. Ricardo has 29 apples and 41 pears. How many fruits does he have altogether? Equation: 29+41=70
+5. Alejandro has 57 avocados and 65 tomatoes. How many fruits does he have altogether? Equation: 57+65=122
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 69 times during soccer practice. Nicolas kicked the ball 51 times. How many times did they kick the ball together? Equation: 69+51=120
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 18 goals in a soccer match. His team won the match by 3 goals. How many goals did Ronaldo's team score in total? Equation: 18+3=21
+2. Lionel Messi scored 9 goals in a soccer match. His team won the match by 5 goals. How many goals did Messi's team score in total? Equation: 9+5=14
+3. Neymar scored 12 goals in a soccer match. His team won the match by 2 goals. How many goals did Neymar's team score in total? Equation: 12+2=14
+4. Mohamed Salah scored 7 goals in a soccer match. His team won the match by 2 goals. How many goals did Salah's team score in total? Equation: 7+2=9
+5. Harry Kane scored 11 goals in a soccer match. His team won the match by 2 goals. How many goals did Kane's team score in total? Equation: 11+2=13
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 13 pencils and Sharleen has 11 pencils. How many pencils do they have in all? Equation: 13+11=24
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 18 lemons. How many fruits does she have altogether? Equation: 13+18=31
+2. Jose has 8 bananas and 16 papayas. How many fruits does he have altogether? Equation: 8+16=24
+3. Cesar has 19 grapes and 25 blueberries. How many fruits does he have altogether? Equation: 19+25=44
+4. Ricardo has 29 apples and 41 pears. How many fruits does he have altogether? Equation: 29+41=70
+5. Alejandro has 57 avocados and 65 tomatoes. How many fruits does he have altogether? Equation: 57+65=122
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 69 times during soccer practice. Nicolas kicked the ball 51 times. How many times did they kick the ball together? Equation: 69+51=120
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 18 goals in a soccer match. His team won the match by 3 goals. How many goals did Ronaldo's team score in total? Equation: 18+3=21
+2. Lionel Messi scored 9 goals in a soccer match. His team won the match by 5 goals. How many goals did Messi's team score in total? Equation: 9+5=14
+3. Neymar scored 12 goals in a soccer match. His team won the match by 2 goals. How many goals did Neymar's team score in total? Equation: 12+2=14
+4. Mohamed Salah scored 7 goals in a soccer match. His team won the match by 2 goals. How many goals did Salah's team score in total? Equation: 7+2=9
+5. Harry Kane scored 11 goals in a soccer match. His team won the match by 2 goals. How many goals did Kane's team score in total? Equation: 11+2=13
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 13 pencils and Sharleen has 11 pencils. How many pencils do they have in all? Equation: 13+11=24
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 18 lemons. How many fruits does she have altogether? Equation: 13+18=31
+2. Jose has 8 bananas and 16 papayas. How many fruits does he have altogether? Equation: 8+16=24
+3. Cesar has 19 grapes and 25 blueberries. How many fruits does he have altogether? Equation: 19+25=44
+4. Ricardo has 29 apples and 41 pears. How many fruits does he have altogether? Equation: 29+41=70
+5. Alejandro has 57 avocados and 65 tomatoes. How many fruits does he have altogether? Equation: 57+65=122
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 69 times during soccer practice. Nicolas kicked the ball 51 times. How many times did they kick the ball together? Equation: 69+51=120
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 18 goals in a soccer match. His team won the match by 3 goals. How many goals did Ronaldo's team score in total? Equation: 18+3=21
+2. Lionel Messi scored 9 goals in a soccer match. His team won the match by 5 goals. How many goals did Messi's team score in total? Equation: 9+5=14
+3. Neymar scored 12 goals in a soccer match. His team won the match by 2 goals. How many goals did Neymar's team score in total? Equation: 12+2=14
+4. Mohamed Salah scored 7 goals in a soccer match. His team won the match by 2 goals. How many goals did Salah's team score in total? Equation: 7+2=9
+5. Harry Kane scored 11 goals in a soccer match. His team won the match by 2 goals. How many goals did Kane's team score in total? Equation: 11+2=13
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 13 pencils and Sharleen has 11 pencils. How many pencils do they have in all? Equation: 13+11=24
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 18 lemons. How many fruits does she have altogether? Equation: 13+18=31
+2. Jose has 8 bananas and 16 papayas. How many fruits does he have altogether? Equation: 8+16=24
+3. Cesar has 19 grapes and 25 blueberries. How many fruits does he have altogether? Equation: 19+25=44
+4. Ricardo has 29 apples and 41 pears. How many fruits does he have altogether? Equation: 29+41=70
+5. Alejandro has 57 avocados and 65 tomatoes. How many fruits does he have altogether? Equation: 57+65=122
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 69 times during soccer practice. Nicolas kicked the ball 51 times. How many times did they kick the ball together? Equation: 69+51=120
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 18 goals in a soccer match. His team won the match by 3 goals. How many goals did Ronaldo's team score in total? Equation: 18+3=21
+2. Lionel Messi scored 9 goals in a soccer match. His team won the match by 5 goals. How many goals did Messi's team score in total? Equation: 9+5=14
+3. Neymar scored 12 goals in a soccer match. His team won the match by 2 goals. How many goals did Neymar's team score in total? Equation: 12+2=14
+4. Mohamed Salah scored 7 goals in a soccer match. His team won the match by 2 goals. How many goals did Salah's team score in total? Equation: 7+2=9
+5. Harry Kane scored 11 goals in a soccer match. His team won the match by 2 goals. How many goals did Kane's team score in total? Equation: 11+2=13
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 13 pencils and Sharleen has 11 pencils. How many pencils do they have in all? Equation: 13+11=24
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 18 lemons. How many fruits does she have altogether? Equation: 13+18=31
+2. Jose has 8 bananas and 16 papayas. How many fruits does he have altogether? Equation: 8+16=24
+3. Cesar has 19 grapes and 25 blueberries. How many fruits does he have altogether? Equation: 19+25=44
+4. Ricardo has 29 apples and 41 pears. How many fruits does he have altogether? Equation: 29+41=70
+5. Alejandro has 57 avocados and 65 tomatoes. How many fruits does he have altogether? Equation: 57+65=122
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 69 times during soccer practice. Nicolas kicked the ball 51 times. How many times did they kick the ball together? Equation: 69+51=120
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 18 goals in a soccer match. His team won the match by 3 goals. How many goals did Ronaldo's team score in total? Equation: 18+3=21
+2. Lionel Messi scored 9 goals in a soccer match. His team won the match by 5 goals. How many goals did Messi's team score in total? Equation: 9+5=14
+3. Neymar scored 12 goals in a soccer match. His team won the match by 2 goals. How many goals did Neymar's team score in total? Equation: 12+2=14
+4. Mohamed Salah scored 7 goals in a soccer match. His team won the match by 2 goals. How many goals did Salah's team score in total? Equation: 7+2=9
+5. Harry Kane scored 11 goals in a soccer match. His team won the match by 2 goals. How many goals did Kane's team score in total? Equation: 11+2=13
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 13 pencils and Sharleen has 11 pencils. How many pencils do they have in all? Equation: 13+11=24
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 18 lemons. How many fruits does she have altogether? Equation: 13+18=31
+2. Jose has 8 bananas and 16 papayas. How many fruits does he have altogether? Equation: 8+16=24
+3. Cesar has 19 grapes and 25 blueberries. How many fruits does he have altogether? Equation: 19+25=44
+4. Ricardo has 29 apples and 41 pears. How many fruits does he have altogether? Equation: 29+41=70
+5. Alejandro has 57 avocados and 65 tomatoes. How many fruits does he have altogether? Equation: 57+65=122
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 69 times during soccer practice. Nicolas kicked the ball 51 times. How many times did they kick the ball together? Equation: 69+51=120
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 18 goals in a soccer match. His team won the match by 3 goals. How many goals did Ronaldo's team score in total? Equation: 18+3=21
+2. Lionel Messi scored 9 goals in a soccer match. His team won the match by 5 goals. How many goals did Messi's team score in total? Equation: 9+5=14
+3. Neymar scored 12 goals in a soccer match. His team won the match by 2 goals. How many goals did Neymar's team score in total? Equation: 12+2=14
+4. Mohamed Salah scored 7 goals in a soccer match. His team won the match by 2 goals. How many goals did Salah's team score in total? Equation: 7+2=9
+5. Harry Kane scored 11 goals in a soccer match. His team won the match by 2 goals. How many goals did Kane's team score in total? Equation: 11+2=13
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 13 pencils and Sharleen has 11 pencils. How many pencils do they have in all? Equation: 13+11=24
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 18 lemons. How many fruits does she have altogether? Equation: 13+18=31
+2. Jose has 8 bananas and 16 papayas. How many fruits does he have altogether? Equation: 8+16=24
+3. Cesar has 19 grapes and 25 blueberries. How many fruits does he have altogether? Equation: 19+25=44
+4. Ricardo has 29 apples and 41 pears. How many fruits does he have altogether? Equation: 29+41=70
+5. Alejandro has 57 avocados and 65 tomatoes. How many fruits does he have altogether? Equation: 57+65=122
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 69 times during soccer practice. Nicolas kicked the ball 51 times. How many times did they kick the ball together? Equation: 69+51=120
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 18 goals in a soccer match. His team won the match by 3 goals. How many goals did Ronaldo's team score in total? Equation: 18+3=21
+2. Lionel Messi scored 9 goals in a soccer match. His team won the match by 5 goals. How many goals did Messi's team score in total? Equation: 9+5=14
+3. Neymar scored 12 goals in a soccer match. His team won the match by 2 goals. How many goals did Neymar's team score in total? Equation: 12+2=14
+4. Mohamed Salah scored 7 goals in a soccer match. His team won the match by 2 goals. How many goals did Salah's team score in total? Equation: 7+2=9
+5. Harry Kane scored 11 goals in a soccer match. His team won the match by 2 goals. How many goals did Kane's team score in total? Equation: 11+2=13
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 13 pencils and Sharleen has 11 pencils. How many pencils do they have in all? Equation: 13+11=24
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 18 lemons. How many fruits does she have altogether? Equation: 13+18=31
+2. Jose has 8 bananas and 16 papayas. How many fruits does he have altogether? Equation: 8+16=24
+3. Cesar has 19 grapes and 25 blueberries. How many fruits does he have altogether? Equation: 19+25=44
+4. Ricardo has 29 apples and 41 pears. How many fruits does he have altogether? Equation: 29+41=70
+5. Alejandro has 57 avocados and 65 tomatoes. How many fruits does he have altogether? Equation: 57+65=122
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 69 times during soccer practice. Nicolas kicked the ball 51 times. How many times did they kick the ball together? Equation: 69+51=120
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 18 goals in a soccer match. His team won the match by 3 goals. How many goals did Ronaldo's team score in total? Equation: 18+3=21
+2. Lionel Messi scored 9 goals in a soccer match. His team won the match by 5 goals. How many goals did Messi's team score in total? Equation: 9+5=14
+3. Neymar scored 12 goals in a soccer match. His team won the match by 2 goals. How many goals did Neymar's team score in total? Equation: 12+2=14
+4. Mohamed Salah scored 7 goals in a soccer match. His team won the match by 2 goals. How many goals did Salah's team score in total? Equation: 7+2=9
+5. Harry Kane scored 11 goals in a soccer match. His team won the match by 2 goals. How many goals did Kane's team score in total? Equation: 11+2=13
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 13 pencils and Sharleen has 11 pencils. How many pencils do they have in all? Equation: 13+11=24
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 18 lemons. How many fruits does she have altogether? Equation: 13+18=31
+2. Jose has 8 bananas and 16 papayas. How many fruits does he have altogether? Equation: 8+16=24
+3. Cesar has 19 grapes and 25 blueberries. How many fruits does he have altogether? Equation: 19+25=44
+4. Ricardo has 29 apples and 41 pears. How many fruits does he have altogether? Equation: 29+41=70
+5. Alejandro has 57 avocados and 65 tomatoes. How many fruits does he have altogether? Equation: 57+65=122
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 69 times during soccer practice. Nicolas kicked the ball 51 times. How many times did they kick the ball together? Equation: 69+51=120
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 18 goals in a soccer match. His team won the match by 3 goals. How many goals did Ronaldo's team score in total? Equation: 18+3=21
+2. Lionel Messi scored 9 goals in a soccer match. His team won the match by 5 goals. How many goals did Messi's team score in total? Equation: 9+5=14
+3. Neymar scored 12 goals in a soccer match. His team won the match by 2 goals. How many goals did Neymar's team score in total? Equation: 12+2=14
+4. Mohamed Salah scored 7 goals in a soccer match. His team won the match by 2 goals. How many goals did Salah's team score in total? Equation: 7+2=9
+5. Harry Kane scored 11 goals in a soccer match. His team won the match by 2 goals. How many goals did Kane's team score in total? Equation: 11+2=13
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 13 pencils and Sharleen has 11 pencils. How many pencils do they have in all? Equation: 13+11=24
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 18 lemons. How many fruits does she have altogether? Equation: 13+18=31
+2. Jose has 8 bananas and 16 papayas. How many fruits does he have altogether? Equation: 8+16=24
+3. Cesar has 19 grapes and 25 blueberries. How many fruits does he have altogether? Equation: 19+25=44
+4. Ricardo has 29 apples and 41 pears. How many fruits does he have altogether? Equation: 29+41=70
+5. Alejandro has 57 avocados and 65 tomatoes. How many fruits does he have altogether? Equation: 57+65=122
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 69 times during soccer practice. Nicolas kicked the ball 51 times. How many times did they kick the ball together? Equation: 69+51=120
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 18 goals in a soccer match. His team won the match by 3 goals. How many goals did Ronaldo's team score in total? Equation: 18+3=21
+2. Lionel Messi scored 9 goals in a soccer match. His team won the match by 5 goals. How many goals did Messi's team score in total? Equation: 9+5=14
+3. Neymar scored 12 goals in a soccer match. His team won the match by 2 goals. How many goals did Neymar's team score in total? Equation: 12+2=14
+4. Mohamed Salah scored 7 goals in a soccer match. His team won the match by 2 goals. How many goals did Salah's team score in total? Equation: 7+2=9
+5. Harry Kane scored 11 goals in a soccer match. His team won the match by 2 goals. How many goals did Kane's team score in total? Equation: 11+2=13
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 12 pencils and Mary has 18 pencils. How many pencils do they have together? Equation: 12+18=30
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Sharon has 3 apples. Sharon picked 15 more apples. How many apples does Sharon have now? Equation: 3+15=18 
+2. Jose has 6 bananas. Jose peeled 23 bananas. How many bananas does Jose have now? Equation: 6-23=3 
+3. Linda has 8 oranges. Linda squeezed 34 oranges. How many oranges does Linda have now? Equation: 8-34=26 
+4. Kevin has 5 grapes. Kevin ate 20 grapes. How many grapes does Kevin have now? Equation: 5-20=15 
+5. Rebecca has 7 berries. Rebecca picked 21 berries. How many berries does Rebecca have now? Equation: 7+21=28
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 6 goals in a soccer game. Cristiano Ronaldo scored 8 goals in a soccer game. How many goals did they score in total? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 6 goals during a soccer match. Lionel Messi scored 9 goals. How many goals did they score in total? Equation: 6+9=15
+2. Neymar scored 11 goals during a soccer match. Philippe Coutinho scored 14 goals. How many goals did they score in total? Equation: 11+14=25
+3. Wayne Rooney scored 12 goals during a soccer match. Harry Kane scored 15 goals. How many goals did they score in total? Equation: 12+15=27
+4. Luis Suarez scored 19 goals during a soccer match. Diego Costa scored 25 goals. How many goals did they score in total? Equation: 19+25=44
+5. Zlatan Ibrahimovic scored 28 goals during a soccer match. Robert Lewandowski scored 31 goals. How many goals did they score in total? Equation: 28+31=59
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 12 pencils and Mary has 18 pencils. How many pencils do they have together? Equation: 12+18=30
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Sharon has 3 apples. Sharon picked 15 more apples. How many apples does Sharon have now? Equation: 3+15=18 
+2. Jose has 6 bananas. Jose peeled 23 bananas. How many bananas does Jose have now? Equation: 6-23=3 
+3. Linda has 8 oranges. Linda squeezed 34 oranges. How many oranges does Linda have now? Equation: 8-34=26 
+4. Kevin has 5 grapes. Kevin ate 20 grapes. How many grapes does Kevin have now? Equation: 5-20=15 
+5. Rebecca has 7 berries. Rebecca picked 21 berries. How many berries does Rebecca have now? Equation: 7+21=28
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 6 goals in a soccer game. Cristiano Ronaldo scored 8 goals in a soccer game. How many goals did they score in total? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 6 goals during a soccer match. Lionel Messi scored 9 goals. How many goals did they score in total? Equation: 6+9=15
+2. Neymar scored 11 goals during a soccer match. Philippe Coutinho scored 14 goals. How many goals did they score in total? Equation: 11+14=25
+3. Wayne Rooney scored 12 goals during a soccer match. Harry Kane scored 15 goals. How many goals did they score in total? Equation: 12+15=27
+4. Luis Suarez scored 19 goals during a soccer match. Diego Costa scored 25 goals. How many goals did they score in total? Equation: 19+25=44
+5. Zlatan Ibrahimovic scored 28 goals during a soccer match. Robert Lewandowski scored 31 goals. How many goals did they score in total? Equation: 28+31=59
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 12 pencils and Mary has 18 pencils. How many pencils do they have together? Equation: 12+18=30
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Sharon has 3 apples. Sharon picked 15 more apples. How many apples does Sharon have now? Equation: 3+15=18 
+2. Jose has 6 bananas. Jose peeled 23 bananas. How many bananas does Jose have now? Equation: 6-23=3 
+3. Linda has 8 oranges. Linda squeezed 34 oranges. How many oranges does Linda have now? Equation: 8-34=26 
+4. Kevin has 5 grapes. Kevin ate 20 grapes. How many grapes does Kevin have now? Equation: 5-20=15 
+5. Rebecca has 7 berries. Rebecca picked 21 berries. How many berries does Rebecca have now? Equation: 7+21=28
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 6 goals in a soccer game. Cristiano Ronaldo scored 8 goals in a soccer game. How many goals did they score in total? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 6 goals during a soccer match. Lionel Messi scored 9 goals. How many goals did they score in total? Equation: 6+9=15
+2. Neymar scored 11 goals during a soccer match. Philippe Coutinho scored 14 goals. How many goals did they score in total? Equation: 11+14=25
+3. Wayne Rooney scored 12 goals during a soccer match. Harry Kane scored 15 goals. How many goals did they score in total? Equation: 12+15=27
+4. Luis Suarez scored 19 goals during a soccer match. Diego Costa scored 25 goals. How many goals did they score in total? Equation: 19+25=44
+5. Zlatan Ibrahimovic scored 28 goals during a soccer match. Robert Lewandowski scored 31 goals. How many goals did they score in total? Equation: 28+31=59
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 12 pencils and Mary has 18 pencils. How many pencils do they have together? Equation: 12+18=30
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Sharon has 3 apples. Sharon picked 15 more apples. How many apples does Sharon have now? Equation: 3+15=18 
+2. Jose has 6 bananas. Jose peeled 23 bananas. How many bananas does Jose have now? Equation: 6-23=3 
+3. Linda has 8 oranges. Linda squeezed 34 oranges. How many oranges does Linda have now? Equation: 8-34=26 
+4. Kevin has 5 grapes. Kevin ate 20 grapes. How many grapes does Kevin have now? Equation: 5-20=15 
+5. Rebecca has 7 berries. Rebecca picked 21 berries. How many berries does Rebecca have now? Equation: 7+21=28
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 6 goals in a soccer game. Cristiano Ronaldo scored 8 goals in a soccer game. How many goals did they score in total? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 6 goals during a soccer match. Lionel Messi scored 9 goals. How many goals did they score in total? Equation: 6+9=15
+2. Neymar scored 11 goals during a soccer match. Philippe Coutinho scored 14 goals. How many goals did they score in total? Equation: 11+14=25
+3. Wayne Rooney scored 12 goals during a soccer match. Harry Kane scored 15 goals. How many goals did they score in total? Equation: 12+15=27
+4. Luis Suarez scored 19 goals during a soccer match. Diego Costa scored 25 goals. How many goals did they score in total? Equation: 19+25=44
+5. Zlatan Ibrahimovic scored 28 goals during a soccer match. Robert Lewandowski scored 31 goals. How many goals did they score in total? Equation: 28+31=59
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 12 pencils and Mary has 18 pencils. How many pencils do they have together? Equation: 12+18=30
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Sharon has 3 apples. Sharon picked 15 more apples. How many apples does Sharon have now? Equation: 3+15=18 
+2. Jose has 6 bananas. Jose peeled 23 bananas. How many bananas does Jose have now? Equation: 6-23=3 
+3. Linda has 8 oranges. Linda squeezed 34 oranges. How many oranges does Linda have now? Equation: 8-34=26 
+4. Kevin has 5 grapes. Kevin ate 20 grapes. How many grapes does Kevin have now? Equation: 5-20=15 
+5. Rebecca has 7 berries. Rebecca picked 21 berries. How many berries does Rebecca have now? Equation: 7+21=28
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 6 goals in a soccer game. Cristiano Ronaldo scored 8 goals in a soccer game. How many goals did they score in total? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 6 goals during a soccer match. Lionel Messi scored 9 goals. How many goals did they score in total? Equation: 6+9=15
+2. Neymar scored 11 goals during a soccer match. Philippe Coutinho scored 14 goals. How many goals did they score in total? Equation: 11+14=25
+3. Wayne Rooney scored 12 goals during a soccer match. Harry Kane scored 15 goals. How many goals did they score in total? Equation: 12+15=27
+4. Luis Suarez scored 19 goals during a soccer match. Diego Costa scored 25 goals. How many goals did they score in total? Equation: 19+25=44
+5. Zlatan Ibrahimovic scored 28 goals during a soccer match. Robert Lewandowski scored 31 goals. How many goals did they score in total? Equation: 28+31=59
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 12 pencils and Mary has 18 pencils. How many pencils do they have together? Equation: 12+18=30
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Sharon has 3 apples. Sharon picked 15 more apples. How many apples does Sharon have now? Equation: 3+15=18 
+2. Jose has 6 bananas. Jose peeled 23 bananas. How many bananas does Jose have now? Equation: 6-23=3 
+3. Linda has 8 oranges. Linda squeezed 34 oranges. How many oranges does Linda have now? Equation: 8-34=26 
+4. Kevin has 5 grapes. Kevin ate 20 grapes. How many grapes does Kevin have now? Equation: 5-20=15 
+5. Rebecca has 7 berries. Rebecca picked 21 berries. How many berries does Rebecca have now? Equation: 7+21=28
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 6 goals in a soccer game. Cristiano Ronaldo scored 8 goals in a soccer game. How many goals did they score in total? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 6 goals during a soccer match. Lionel Messi scored 9 goals. How many goals did they score in total? Equation: 6+9=15
+2. Neymar scored 11 goals during a soccer match. Philippe Coutinho scored 14 goals. How many goals did they score in total? Equation: 11+14=25
+3. Wayne Rooney scored 12 goals during a soccer match. Harry Kane scored 15 goals. How many goals did they score in total? Equation: 12+15=27
+4. Luis Suarez scored 19 goals during a soccer match. Diego Costa scored 25 goals. How many goals did they score in total? Equation: 19+25=44
+5. Zlatan Ibrahimovic scored 28 goals during a soccer match. Robert Lewandowski scored 31 goals. How many goals did they score in total? Equation: 28+31=59
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 12 pencils and Mary has 18 pencils. How many pencils do they have together? Equation: 12+18=30
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Sharon has 3 apples. Sharon picked 15 more apples. How many apples does Sharon have now? Equation: 3+15=18 
+2. Jose has 6 bananas. Jose peeled 23 bananas. How many bananas does Jose have now? Equation: 6-23=3 
+3. Linda has 8 oranges. Linda squeezed 34 oranges. How many oranges does Linda have now? Equation: 8-34=26 
+4. Kevin has 5 grapes. Kevin ate 20 grapes. How many grapes does Kevin have now? Equation: 5-20=15 
+5. Rebecca has 7 berries. Rebecca picked 21 berries. How many berries does Rebecca have now? Equation: 7+21=28
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 6 goals in a soccer game. Cristiano Ronaldo scored 8 goals in a soccer game. How many goals did they score in total? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 6 goals during a soccer match. Lionel Messi scored 9 goals. How many goals did they score in total? Equation: 6+9=15
+2. Neymar scored 11 goals during a soccer match. Philippe Coutinho scored 14 goals. How many goals did they score in total? Equation: 11+14=25
+3. Wayne Rooney scored 12 goals during a soccer match. Harry Kane scored 15 goals. How many goals did they score in total? Equation: 12+15=27
+4. Luis Suarez scored 19 goals during a soccer match. Diego Costa scored 25 goals. How many goals did they score in total? Equation: 19+25=44
+5. Zlatan Ibrahimovic scored 28 goals during a soccer match. Robert Lewandowski scored 31 goals. How many goals did they score in total? Equation: 28+31=59
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 12 pencils and Mary has 18 pencils. How many pencils do they have together? Equation: 12+18=30
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Sharon has 3 apples. Sharon picked 15 more apples. How many apples does Sharon have now? Equation: 3+15=18 
+2. Jose has 6 bananas. Jose peeled 23 bananas. How many bananas does Jose have now? Equation: 6-23=3 
+3. Linda has 8 oranges. Linda squeezed 34 oranges. How many oranges does Linda have now? Equation: 8-34=26 
+4. Kevin has 5 grapes. Kevin ate 20 grapes. How many grapes does Kevin have now? Equation: 5-20=15 
+5. Rebecca has 7 berries. Rebecca picked 21 berries. How many berries does Rebecca have now? Equation: 7+21=28
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juan purchased 9 apples. If he ate 4 apples, how many apples does he have left? Equation: 9-4=5 
+2. Maria purchased 6 pears. If she ate 3 pears, how many pears does she have left? Equation: 6-3=3 
+3. Carlos purchased 7 oranges. If he ate 2 oranges, how many oranges does he have left? Equation: 7-2=5 
+4. Jose purchased 11 grapes. If he ate 5 grapes, how many grapes does he have left? Equation: 11-5=6 
+5. Felipe purchased 17 strawberries. If he ate 8 strawberries, how many strawberries does he have left? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 6 times. Leo kicked the ball 8 times. How many times did they kick the ball altogether? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 7 goals in a soccer match. Gareth Bale scored 2 goals. How many goals did they score altogether? Equation: 7+2=9 
+2. Mesut Özil passed the ball to Karim Benzema who scored a goal. Özil passed the ball 12 times that resulted in a goal. Benzema scored 6 goals. How many times did Özil pass the ball without resulting in a goal? Equation: 12-6=6 
+3. Wayne Rooney passed the ball to Juan Mata who scored a goal. Rooney passed the ball 9 times that resulted in a goal. Mata scored 3 goals. How many times did Rooney pass the ball without resulting in a goal? Equation: 9-3=6 
+4. Luis Suarez passed the ball to Philippe Coutinho who scored a goal. Suarez passed the ball 11 times that resulted in a goal. Coutinho scored 5 goals. How many times did Suarez pass the ball without resulting in a goal? Equation: 11-5=6 
+5. Neymar passed the ball to Lionel Messi who scored a goal. Neymar passed the ball 17 times that resulted in a goal. Messi scored 8 goals. How many times did Neymar pass the ball without resulting in a goal? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juan purchased 9 apples. If he ate 4 apples, how many apples does he have left? Equation: 9-4=5 
+2. Maria purchased 6 pears. If she ate 3 pears, how many pears does she have left? Equation: 6-3=3 
+3. Carlos purchased 7 oranges. If he ate 2 oranges, how many oranges does he have left? Equation: 7-2=5 
+4. Jose purchased 11 grapes. If he ate 5 grapes, how many grapes does he have left? Equation: 11-5=6 
+5. Felipe purchased 17 strawberries. If he ate 8 strawberries, how many strawberries does he have left? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 6 times. Leo kicked the ball 8 times. How many times did they kick the ball altogether? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 7 goals in a soccer match. Gareth Bale scored 2 goals. How many goals did they score altogether? Equation: 7+2=9 
+2. Mesut Özil passed the ball to Karim Benzema who scored a goal. Özil passed the ball 12 times that resulted in a goal. Benzema scored 6 goals. How many times did Özil pass the ball without resulting in a goal? Equation: 12-6=6 
+3. Wayne Rooney passed the ball to Juan Mata who scored a goal. Rooney passed the ball 9 times that resulted in a goal. Mata scored 3 goals. How many times did Rooney pass the ball without resulting in a goal? Equation: 9-3=6 
+4. Luis Suarez passed the ball to Philippe Coutinho who scored a goal. Suarez passed the ball 11 times that resulted in a goal. Coutinho scored 5 goals. How many times did Suarez pass the ball without resulting in a goal? Equation: 11-5=6 
+5. Neymar passed the ball to Lionel Messi who scored a goal. Neymar passed the ball 17 times that resulted in a goal. Messi scored 8 goals. How many times did Neymar pass the ball without resulting in a goal? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juan purchased 9 apples. If he ate 4 apples, how many apples does he have left? Equation: 9-4=5 
+2. Maria purchased 6 pears. If she ate 3 pears, how many pears does she have left? Equation: 6-3=3 
+3. Carlos purchased 7 oranges. If he ate 2 oranges, how many oranges does he have left? Equation: 7-2=5 
+4. Jose purchased 11 grapes. If he ate 5 grapes, how many grapes does he have left? Equation: 11-5=6 
+5. Felipe purchased 17 strawberries. If he ate 8 strawberries, how many strawberries does he have left? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 6 times. Leo kicked the ball 8 times. How many times did they kick the ball altogether? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 7 goals in a soccer match. Gareth Bale scored 2 goals. How many goals did they score altogether? Equation: 7+2=9 
+2. Mesut Özil passed the ball to Karim Benzema who scored a goal. Özil passed the ball 12 times that resulted in a goal. Benzema scored 6 goals. How many times did Özil pass the ball without resulting in a goal? Equation: 12-6=6 
+3. Wayne Rooney passed the ball to Juan Mata who scored a goal. Rooney passed the ball 9 times that resulted in a goal. Mata scored 3 goals. How many times did Rooney pass the ball without resulting in a goal? Equation: 9-3=6 
+4. Luis Suarez passed the ball to Philippe Coutinho who scored a goal. Suarez passed the ball 11 times that resulted in a goal. Coutinho scored 5 goals. How many times did Suarez pass the ball without resulting in a goal? Equation: 11-5=6 
+5. Neymar passed the ball to Lionel Messi who scored a goal. Neymar passed the ball 17 times that resulted in a goal. Messi scored 8 goals. How many times did Neymar pass the ball without resulting in a goal? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juan purchased 9 apples. If he ate 4 apples, how many apples does he have left? Equation: 9-4=5 
+2. Maria purchased 6 pears. If she ate 3 pears, how many pears does she have left? Equation: 6-3=3 
+3. Carlos purchased 7 oranges. If he ate 2 oranges, how many oranges does he have left? Equation: 7-2=5 
+4. Jose purchased 11 grapes. If he ate 5 grapes, how many grapes does he have left? Equation: 11-5=6 
+5. Felipe purchased 17 strawberries. If he ate 8 strawberries, how many strawberries does he have left? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 6 times. Leo kicked the ball 8 times. How many times did they kick the ball altogether? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 7 goals in a soccer match. Gareth Bale scored 2 goals. How many goals did they score altogether? Equation: 7+2=9 
+2. Mesut Özil passed the ball to Karim Benzema who scored a goal. Özil passed the ball 12 times that resulted in a goal. Benzema scored 6 goals. How many times did Özil pass the ball without resulting in a goal? Equation: 12-6=6 
+3. Wayne Rooney passed the ball to Juan Mata who scored a goal. Rooney passed the ball 9 times that resulted in a goal. Mata scored 3 goals. How many times did Rooney pass the ball without resulting in a goal? Equation: 9-3=6 
+4. Luis Suarez passed the ball to Philippe Coutinho who scored a goal. Suarez passed the ball 11 times that resulted in a goal. Coutinho scored 5 goals. How many times did Suarez pass the ball without resulting in a goal? Equation: 11-5=6 
+5. Neymar passed the ball to Lionel Messi who scored a goal. Neymar passed the ball 17 times that resulted in a goal. Messi scored 8 goals. How many times did Neymar pass the ball without resulting in a goal? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juan purchased 9 apples. If he ate 4 apples, how many apples does he have left? Equation: 9-4=5 
+2. Maria purchased 6 pears. If she ate 3 pears, how many pears does she have left? Equation: 6-3=3 
+3. Carlos purchased 7 oranges. If he ate 2 oranges, how many oranges does he have left? Equation: 7-2=5 
+4. Jose purchased 11 grapes. If he ate 5 grapes, how many grapes does he have left? Equation: 11-5=6 
+5. Felipe purchased 17 strawberries. If he ate 8 strawberries, how many strawberries does he have left? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 6 times. Leo kicked the ball 8 times. How many times did they kick the ball altogether? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 7 goals in a soccer match. Gareth Bale scored 2 goals. How many goals did they score altogether? Equation: 7+2=9 
+2. Mesut Özil passed the ball to Karim Benzema who scored a goal. Özil passed the ball 12 times that resulted in a goal. Benzema scored 6 goals. How many times did Özil pass the ball without resulting in a goal? Equation: 12-6=6 
+3. Wayne Rooney passed the ball to Juan Mata who scored a goal. Rooney passed the ball 9 times that resulted in a goal. Mata scored 3 goals. How many times did Rooney pass the ball without resulting in a goal? Equation: 9-3=6 
+4. Luis Suarez passed the ball to Philippe Coutinho who scored a goal. Suarez passed the ball 11 times that resulted in a goal. Coutinho scored 5 goals. How many times did Suarez pass the ball without resulting in a goal? Equation: 11-5=6 
+5. Neymar passed the ball to Lionel Messi who scored a goal. Neymar passed the ball 17 times that resulted in a goal. Messi scored 8 goals. How many times did Neymar pass the ball without resulting in a goal? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juan purchased 9 apples. If he ate 4 apples, how many apples does he have left? Equation: 9-4=5 
+2. Maria purchased 6 pears. If she ate 3 pears, how many pears does she have left? Equation: 6-3=3 
+3. Carlos purchased 7 oranges. If he ate 2 oranges, how many oranges does he have left? Equation: 7-2=5 
+4. Jose purchased 11 grapes. If he ate 5 grapes, how many grapes does he have left? Equation: 11-5=6 
+5. Felipe purchased 17 strawberries. If he ate 8 strawberries, how many strawberries does he have left? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Juan kicked the ball 6 times. Leo kicked the ball 8 times. How many times did they kick the ball altogether? Equation: 6+8=14
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 7 goals in a soccer match. Gareth Bale scored 2 goals. How many goals did they score altogether? Equation: 7+2=9 
+2. Mesut Özil passed the ball to Karim Benzema who scored a goal. Özil passed the ball 12 times that resulted in a goal. Benzema scored 6 goals. How many times did Özil pass the ball without resulting in a goal? Equation: 12-6=6 
+3. Wayne Rooney passed the ball to Juan Mata who scored a goal. Rooney passed the ball 9 times that resulted in a goal. Mata scored 3 goals. How many times did Rooney pass the ball without resulting in a goal? Equation: 9-3=6 
+4. Luis Suarez passed the ball to Philippe Coutinho who scored a goal. Suarez passed the ball 11 times that resulted in a goal. Coutinho scored 5 goals. How many times did Suarez pass the ball without resulting in a goal? Equation: 11-5=6 
+5. Neymar passed the ball to Lionel Messi who scored a goal. Neymar passed the ball 17 times that resulted in a goal. Messi scored 8 goals. How many times did Neymar pass the ball without resulting in a goal? Equation: 17-8=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 9 apples. Her sister has 18 oranges. How many fruits do they have altogether? Equation: 9+18=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 17 pears. How many fruits does she have altogether? Equation: 13+17=30
+2. Cesar has 19 lemons and 25 limes. How many citrus fruits does he have altogether? Equation: 19+25=44
+3. Patricia has 36 grapes and 48 strawberries. How many berries does she have altogether? Equation: 36+48=84
+4. Josef has 51 apples and 65 peaches. How many fruits does he have altogether? Equation: 51+65=116
+5. Nina has 78 bananas and 92 pineapples. How many fruits does she have altogether? Equation: 78+92=170
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 18 goals during their soccer game. Her teammate Mary scored 9 goals as well. How many goals did they score in total? Equation: 18+9=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 2 goals during a soccer match. Gareth Bale scored 3 goals as well. How many goals did they score altogether? Equation: 2+3=5
+2. Lionel Messi scored a total of 4 goals during two soccer matches. If he scored 2 goals during the first match, how many goals did he score during the second match? Equation: 4-2=2
+3. Neymar scored 5 goals during a soccer match. His teammate, Philippe Coutinho, scored 3 goals as well. How many goals did they score altogether? Equation: 5+3=8
+4. During a soccer match, Antoine Griezmann scored 6 goals. His teammate, Kylian Mbappe, scored 7 goals as well. How many goals did they score altogether? Equation: 6+7=13
+5. During a soccer match, Luis Suarez scored 9 goals. His teammate, Edinson Cavani, scored 11 goals as well. How many goals did they score altogether? Equation: 9+11=20
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 9 apples. Her sister has 18 oranges. How many fruits do they have altogether? Equation: 9+18=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 17 pears. How many fruits does she have altogether? Equation: 13+17=30
+2. Cesar has 19 lemons and 25 limes. How many citrus fruits does he have altogether? Equation: 19+25=44
+3. Patricia has 36 grapes and 48 strawberries. How many berries does she have altogether? Equation: 36+48=84
+4. Josef has 51 apples and 65 peaches. How many fruits does he have altogether? Equation: 51+65=116
+5. Nina has 78 bananas and 92 pineapples. How many fruits does she have altogether? Equation: 78+92=170
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 18 goals during their soccer game. Her teammate Mary scored 9 goals as well. How many goals did they score in total? Equation: 18+9=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 2 goals during a soccer match. Gareth Bale scored 3 goals as well. How many goals did they score altogether? Equation: 2+3=5
+2. Lionel Messi scored a total of 4 goals during two soccer matches. If he scored 2 goals during the first match, how many goals did he score during the second match? Equation: 4-2=2
+3. Neymar scored 5 goals during a soccer match. His teammate, Philippe Coutinho, scored 3 goals as well. How many goals did they score altogether? Equation: 5+3=8
+4. During a soccer match, Antoine Griezmann scored 6 goals. His teammate, Kylian Mbappe, scored 7 goals as well. How many goals did they score altogether? Equation: 6+7=13
+5. During a soccer match, Luis Suarez scored 9 goals. His teammate, Edinson Cavani, scored 11 goals as well. How many goals did they score altogether? Equation: 9+11=20
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 9 apples. Her sister has 18 oranges. How many fruits do they have altogether? Equation: 9+18=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 17 pears. How many fruits does she have altogether? Equation: 13+17=30
+2. Cesar has 19 lemons and 25 limes. How many citrus fruits does he have altogether? Equation: 19+25=44
+3. Patricia has 36 grapes and 48 strawberries. How many berries does she have altogether? Equation: 36+48=84
+4. Josef has 51 apples and 65 peaches. How many fruits does he have altogether? Equation: 51+65=116
+5. Nina has 78 bananas and 92 pineapples. How many fruits does she have altogether? Equation: 78+92=170
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 18 goals during their soccer game. Her teammate Mary scored 9 goals as well. How many goals did they score in total? Equation: 18+9=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 2 goals during a soccer match. Gareth Bale scored 3 goals as well. How many goals did they score altogether? Equation: 2+3=5
+2. Lionel Messi scored a total of 4 goals during two soccer matches. If he scored 2 goals during the first match, how many goals did he score during the second match? Equation: 4-2=2
+3. Neymar scored 5 goals during a soccer match. His teammate, Philippe Coutinho, scored 3 goals as well. How many goals did they score altogether? Equation: 5+3=8
+4. During a soccer match, Antoine Griezmann scored 6 goals. His teammate, Kylian Mbappe, scored 7 goals as well. How many goals did they score altogether? Equation: 6+7=13
+5. During a soccer match, Luis Suarez scored 9 goals. His teammate, Edinson Cavani, scored 11 goals as well. How many goals did they score altogether? Equation: 9+11=20
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 9 apples. Her sister has 18 oranges. How many fruits do they have altogether? Equation: 9+18=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 17 pears. How many fruits does she have altogether? Equation: 13+17=30
+2. Cesar has 19 lemons and 25 limes. How many citrus fruits does he have altogether? Equation: 19+25=44
+3. Patricia has 36 grapes and 48 strawberries. How many berries does she have altogether? Equation: 36+48=84
+4. Josef has 51 apples and 65 peaches. How many fruits does he have altogether? Equation: 51+65=116
+5. Nina has 78 bananas and 92 pineapples. How many fruits does she have altogether? Equation: 78+92=170
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 18 goals during their soccer game. Her teammate Mary scored 9 goals as well. How many goals did they score in total? Equation: 18+9=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 2 goals during a soccer match. Gareth Bale scored 3 goals as well. How many goals did they score altogether? Equation: 2+3=5
+2. Lionel Messi scored a total of 4 goals during two soccer matches. If he scored 2 goals during the first match, how many goals did he score during the second match? Equation: 4-2=2
+3. Neymar scored 5 goals during a soccer match. His teammate, Philippe Coutinho, scored 3 goals as well. How many goals did they score altogether? Equation: 5+3=8
+4. During a soccer match, Antoine Griezmann scored 6 goals. His teammate, Kylian Mbappe, scored 7 goals as well. How many goals did they score altogether? Equation: 6+7=13
+5. During a soccer match, Luis Suarez scored 9 goals. His teammate, Edinson Cavani, scored 11 goals as well. How many goals did they score altogether? Equation: 9+11=20
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 9 apples. Her sister has 18 oranges. How many fruits do they have altogether? Equation: 9+18=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 17 pears. How many fruits does she have altogether? Equation: 13+17=30
+2. Cesar has 19 lemons and 25 limes. How many citrus fruits does he have altogether? Equation: 19+25=44
+3. Patricia has 36 grapes and 48 strawberries. How many berries does she have altogether? Equation: 36+48=84
+4. Josef has 51 apples and 65 peaches. How many fruits does he have altogether? Equation: 51+65=116
+5. Nina has 78 bananas and 92 pineapples. How many fruits does she have altogether? Equation: 78+92=170
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 18 goals during their soccer game. Her teammate Mary scored 9 goals as well. How many goals did they score in total? Equation: 18+9=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 2 goals during a soccer match. Gareth Bale scored 3 goals as well. How many goals did they score altogether? Equation: 2+3=5
+2. Lionel Messi scored a total of 4 goals during two soccer matches. If he scored 2 goals during the first match, how many goals did he score during the second match? Equation: 4-2=2
+3. Neymar scored 5 goals during a soccer match. His teammate, Philippe Coutinho, scored 3 goals as well. How many goals did they score altogether? Equation: 5+3=8
+4. During a soccer match, Antoine Griezmann scored 6 goals. His teammate, Kylian Mbappe, scored 7 goals as well. How many goals did they score altogether? Equation: 6+7=13
+5. During a soccer match, Luis Suarez scored 9 goals. His teammate, Edinson Cavani, scored 11 goals as well. How many goals did they score altogether? Equation: 9+11=20
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 9 apples. Her sister has 18 oranges. How many fruits do they have altogether? Equation: 9+18=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions and corresponding equations to solve the problems.
+
+### Response: 
+1. Juanita has 13 oranges and 17 pears. How many fruits does she have altogether? Equation: 13+17=30
+2. Cesar has 19 lemons and 25 limes. How many citrus fruits does he have altogether? Equation: 19+25=44
+3. Patricia has 36 grapes and 48 strawberries. How many berries does she have altogether? Equation: 36+48=84
+4. Josef has 51 apples and 65 peaches. How many fruits does he have altogether? Equation: 51+65=116
+5. Nina has 78 bananas and 92 pineapples. How many fruits does she have altogether? Equation: 78+92=170
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem.
+
+### Response: 
+Jenny scored 18 goals during their soccer game. Her teammate Mary scored 9 goals as well. How many goals did they score in total? Equation: 18+9=27
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to Christina. How many crayons does Jenny have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to Christina. How many crayons does Jenny have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to Christina. How many crayons does Jenny have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to Christina. How many crayons does Jenny have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to Christina. How many crayons does Jenny have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to Christina. How many crayons does Jenny have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to Christina. How many crayons does Jenny have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to Christina. How many crayons does Jenny have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to Christina. How many crayons does Jenny have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to her friend. How many crayons does she have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Jenny has 18 crayons. She gives 6 crayons to Christina. How many crayons does Jenny have left? Equation: 18-6=12
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Stephanie has 15 bottles of nail polish. She wants to give each of her 5 friends 3 bottles. How many bottles will she have left? Equation: 15/3=5
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Stephanie has 15 bottles of nail polish. She wants to give each of her 5 friends 3 bottles. How many bottles will she have left? Equation: 15/3=5
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Stephanie has 15 bottles of nail polish. She wants to give each of her 5 friends 3 bottles. How many bottles will she have left? Equation: 15/3=5
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Stephanie has 15 bottles of nail polish. She wants to give each of her 5 friends 3 bottles. How many bottles will she have left? Equation: 15/3=5
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
