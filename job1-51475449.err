@@ -1,0 +1,37 @@
+  Running command git clone --quiet https://github.com/huggingface/transformers.git /tmp/pip-install-9ta2xizx/transformers_c8a78ccc6af642f2b80429a3799a09fe
+  Running command git clone --quiet https://github.com/huggingface/peft.git /tmp/pip-install-9ta2xizx/peft_e1074a0b54a64974841d395fb91605ac
+  Running command git clone --quiet https://github.com/huggingface/accelerate.git /tmp/pip-install-9ta2xizx/accelerate_7c24c1d7a323447cb12236df2cfa9a89
+/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/bitsandbytes/cuda_setup/main.py:149: UserWarning: Found duplicate ['libcudart.so', 'libcudart.so.11.0', 'libcudart.so.12.0'] files: {PosixPath('/home/brc4cb/.conda/envs/falcon_40B/lib/libcudart.so'), PosixPath('/home/brc4cb/.conda/envs/falcon_40B/lib/libcudart.so.11.0')}.. We'll flip a coin and try one of these, in order to fail forward.
+Either way, this might cause trouble in the future:
+If you get `CUDA error: invalid device function` errors, the above might be the cause and the solution is to make sure only one ['libcudart.so', 'libcudart.so.11.0', 'libcudart.so.12.0'] in the paths that we search based on your env.
+  warn(msg)
+/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/transformers/configuration_utils.py:483: FutureWarning: The `use_auth_token` argument is deprecated and will be removed in v5 of Transformers.
+  warnings.warn(
+/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/transformers/modeling_utils.py:2192: FutureWarning: The `use_auth_token` argument is deprecated and will be removed in v5 of Transformers.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/9 [00:00<?, ?it/s]Loading checkpoint shards:  11%|█         | 1/9 [00:11<01:32, 11.56s/it]Loading checkpoint shards:  22%|██▏       | 2/9 [00:19<01:07,  9.58s/it]Loading checkpoint shards:  33%|███▎      | 3/9 [00:29<00:58,  9.80s/it]Loading checkpoint shards:  44%|████▍     | 4/9 [00:39<00:48,  9.74s/it]Loading checkpoint shards:  56%|█████▌    | 5/9 [00:46<00:35,  8.82s/it]Loading checkpoint shards:  67%|██████▋   | 6/9 [00:53<00:24,  8.30s/it]Loading checkpoint shards:  78%|███████▊  | 7/9 [01:01<00:16,  8.15s/it]Loading checkpoint shards:  89%|████████▉ | 8/9 [01:09<00:08,  8.06s/it]Loading checkpoint shards: 100%|██████████| 9/9 [01:17<00:00,  8.06s/it]Loading checkpoint shards: 100%|██████████| 9/9 [01:17<00:00,  8.64s/it]
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Downloading data files:   0%|          | 0/1 [00:00<?, ?it/s]Downloading data files: 100%|██████████| 1/1 [00:00<00:00, 9341.43it/s]
+Extracting data files:   0%|          | 0/1 [00:00<?, ?it/s]Extracting data files: 100%|██████████| 1/1 [00:00<00:00, 22.52it/s]
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 8792 examples [00:00, 77038.97 examples/s]                                                                  Map:   0%|          | 0/7912 [00:00<?, ? examples/s]                                                    Traceback (most recent call last):
+  File "/gpfs/gpfs0/project/SDS/research/christ_research/falcon/falcon_math/qlora.py", line 809, in <module>
+    train()
+  File "/gpfs/gpfs0/project/SDS/research/christ_research/falcon/falcon_math/qlora.py", line 680, in train
+    data_module = make_data_module(tokenizer=tokenizer, args=args)
+  File "/gpfs/gpfs0/project/SDS/research/christ_research/falcon/falcon_math/qlora.py", line 599, in make_data_module
+    train_dataset = train_dataset.map(lambda x: {'length': len(x['input']) + len(x['output'])})
+  File "/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/datasets/arrow_dataset.py", line 580, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+  File "/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/datasets/arrow_dataset.py", line 545, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+  File "/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/datasets/arrow_dataset.py", line 3087, in map
+    for rank, done, content in Dataset._map_single(**dataset_kwargs):
+  File "/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/datasets/arrow_dataset.py", line 3441, in _map_single
+    example = apply_function_on_filtered_inputs(example, i, offset=offset)
+  File "/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/datasets/arrow_dataset.py", line 3344, in apply_function_on_filtered_inputs
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+  File "/gpfs/gpfs0/project/SDS/research/christ_research/falcon/falcon_math/qlora.py", line 599, in <lambda>
+    train_dataset = train_dataset.map(lambda x: {'length': len(x['input']) + len(x['output'])})
+  File "/home/brc4cb/.conda/envs/falcon_40B/lib/python3.9/site-packages/datasets/formatting/formatting.py", line 270, in __getitem__
+    value = self.data[key]
+KeyError: 'input'

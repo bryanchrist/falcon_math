@@ -1,0 +1,4 @@
+  Running command git clone --quiet https://github.com/huggingface/transformers.git /tmp/pip-install-3jkq5yuc/transformers_45a09f2d88cf4205826abc4f10ff7920
+  Running command git clone --quiet https://github.com/huggingface/peft.git /tmp/pip-install-3jkq5yuc/peft_8048d6dbedcf404c87866a75dd3ed8af
+  Running command git clone --quiet https://github.com/huggingface/accelerate.git /tmp/pip-install-3jkq5yuc/accelerate_4aaab790b5e74b1d856f6e20609d4da1
+slurmstepd: error: *** JOB 51475448 ON udc-an36-13 CANCELLED AT 2023-07-07T09:57:17 ***
