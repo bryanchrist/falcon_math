@@ -26,6 +26,7 @@ from transformers import (
     Seq2SeqTrainer,
     BitsAndBytesConfig,
     LlamaTokenizer
+    Trainer
 
 )
 from datasets import load_dataset, Dataset
@@ -654,7 +655,7 @@ def train():
         padding_side="right",
         use_fast=False, # Fast tokenizer giving issues.
         tokenizer_type='llama' if 'llama' in args.model_name_or_path else None, # Needed for HF name change
-        use_auth_token=args.use_auth_token,
+        use_auth_token=args.use_auth_token, bos_token="<BOS>",
     )
     if tokenizer._pad_token is None:
         smart_tokenizer_and_embedding_resize(
@@ -669,14 +670,15 @@ def train():
         # Note also that `model.config.pad_token_id` is 0 which corresponds to `<unk>` token.
         print('Adding special tokens.')
         tokenizer.add_special_tokens({
-                "eos_token": tokenizer.convert_ids_to_tokens(model.config.eos_token_id),
-                "bos_token": tokenizer.convert_ids_to_tokens(model.config.bos_token_id),
-                "unk_token": tokenizer.convert_ids_to_tokens(
-                    model.config.pad_token_id if model.config.pad_token_id != -1 else tokenizer.pad_token_id
-                ),
+            "eos_token": tokenizer.convert_ids_to_tokens(model.config.eos_token_id),
+            "bos_token": tokenizer.convert_ids_to_tokens(model.config.bos_token_id),
+            "unk_token": tokenizer.convert_ids_to_tokens(
+                model.config.pad_token_id if model.config.pad_token_id != -1 else tokenizer.pad_token_id
+            ),
         })
+        
     data_module = make_data_module(tokenizer=tokenizer, args=args)
-    trainer = Seq2SeqTrainer(
+    trainer = Trainer(
         model=model,
         tokenizer=tokenizer,
         args=training_args,
